@@ -1,0 +1,31 @@
+---------------------------------------------------------
+Credits - Updated 30 May 2023
+---------------------------------------------------------
+
+Third-Party Library:
+ - Open SSL: https://www.openssl.org/
+ - Bogus: https://github.com/bchavez/Bogus
+ - BouncyCastle.NetCore: https://github.com/bcgit/bc-csharp
+ - Figgle: https://github.com/drewnoakes/figgle
+ - HtmlAgilityPack: https://github.com/zzzprojects/html-agility-pack
+ - Jering.Javascript.NodeJS: https://github.com/JeringTech/Javascript.NodeJS
+ - MetroLog.Maui: https://github.com/onovotny/MetroLog
+ - NUglify: https://github.com/xoofx/NUglify
+
+Fonts: 
+ - SIL Open Font License (OFL) - http://scripts.sil.org/OFL
+
+UI components library:
+ - Mudblazor: https://mudblazor.com/
+ 
+--------------------------------------------------------- 
+ 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+ 
+ 

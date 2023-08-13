@@ -1,0 +1,52 @@
+----------------------------------------------------------
+App Privacy Policy -- Updated 30 May 2023
+----------------------------------------------------------
+
+Thank you for using this app. 
+Your privacy is important to us, and we want to make sure you understand how we handle your data.
+
+**Information Collection and Usage:**
+
+Our app does not collect any personal information about you. 
+We do not gather, use, or share any data with third parties. 
+Your usage of our app is completely anonymous.
+
+**Crash Data Collection:**
+
+When you use our app, we may collect crash data to improve app stability and performance. 
+This crash data includes technical information related to app crashes, 
+such as error logs and diagnostic details. 
+Please note that this data is collected and processed anonymously, 
+without any personally identifiable information. It is used solely for identifying and 
+addressing issues to enhance the user experience.
+
+**No Cryptographic Data Collection:**
+
+We want to assure you that we do not collect any cryptographic data, 
+such as encryption keys, passwords, or sensitive security information.
+
+**Your Consent:**
+
+By using our application, you acknowledge and agree to the collection and processing 
+of crash data as described above. 
+Your continued use of the app constitutes your consent to this data collection.
+
+**Data Security:**
+
+We take privacy and data security seriously. We have implemented measures to 
+safeguard the collected crash data and ensure it is used only for the purposes 
+described in this policy.
+
+**Changes to this Policy:**
+
+This privacy policy may be subject to changes or updates. 
+Please check this page for the latest version to stay informed about how we protect your privacy.
+
+**Contact Us:**
+
+If you have any questions or concerns about our app's privacy practices, 
+please feel free to [contact us](mailto:privacy@sanoapps.com).
+
+If you do not agree with this policy, we kindly request that you discontinue the use of our application.
+
+Thank you for trusting us with your privacy.
